@@ -1,4 +1,4 @@
-![Banner](https://github.com/Retrobitti/Retrobitti/blob/main/github_banner.png?raw=true)
+![Banner](https://github.com/Retrobitti/Retrobitti/blob/main/github_banner_1.png?raw=true)
 
 ## About me
 
