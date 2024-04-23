@@ -1,3 +1,5 @@
+![Banner](https://github.com/Retrobitti/Retrobitti/blob/main/github_banner.png?raw=true)
+
 ## About me
 
 Hello! I'm an ICT engineering student with a passion for cloud! I'm currently learning Linux and following a DevOps roadmap to become a DevOps engineer. As a software developer my stongest tools are SQL, JavaScript(Node.js, React.js, React Native). I have stronger knowledge of backend but lately 
